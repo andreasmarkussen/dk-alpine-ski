@@ -1,0 +1,15 @@
+{
+  "name": "dk-alpine-ski",
+  "version": "1.0.0",
+  "description": "View danish alpine results",
+  "main": "index.js",
+  "dependencies": {
+    "pdf2table": "^0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
